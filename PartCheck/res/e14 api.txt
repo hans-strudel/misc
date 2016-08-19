@@ -1,0 +1,10 @@
+Product Search API: Basic
+
+Key: 6pqzrh7bqb54b2u6vtev6zp6
+
+Application
+Manufacturing Type Checker Key: 6pqzrh7bqb54b2u6vtev6zp6 
+Status: active Created: 1 second ago
+Key Rate Limits
+2	Calls per second
+1,000	Calls per day

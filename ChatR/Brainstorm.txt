@@ -1,0 +1,13 @@
+ChatR
+---------------
+
+written in node.js
+open source
+decentralized
+anyone can make a server
+	server file is checksummed to ensure no alterations
+	msg is passed thru a multitude of servers
+	
+? Built in encrypter/decrypter
+	PGP, MD5, etc
+? msg client doubles as server
